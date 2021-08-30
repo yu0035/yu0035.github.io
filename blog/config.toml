@@ -1,0 +1,7 @@
+baseURL = "https://yu0035.github.io/"
+languageCode = "ja-jp"
+title = "マイクラ日記"
+theme = "m10c"
+
+[params]
+    avatar = "avatar2.jpg"
