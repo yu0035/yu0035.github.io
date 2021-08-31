@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>レインボーブロック on マイクラ日記</title>
+    <link>https://yu0035.github.io/tags/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/</link>
+    <description>Recent content in レインボーブロック on マイクラ日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 31 Aug 2021 17:22:22 +0900</lastBuildDate><atom:link href="https://yu0035.github.io/tags/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>マイクラでMod作成中です。</title>
+      <link>https://yu0035.github.io/post/mod1/</link>
+      <pubDate>Tue, 31 Aug 2021 17:22:22 +0900</pubDate>
+      
+      <guid>https://yu0035.github.io/post/mod1/</guid>
+      <description>Mod作成中 現在、マイクラでのModを作成中です。
+そのModはなんと、レインボーブロックというものです。
+このブロック自体は今の所特に効果はありません。
+このブロックから他のアイテムも作れるようにしたいです。
+  </description>
+    </item>
+    
+  </channel>
+</rss>
