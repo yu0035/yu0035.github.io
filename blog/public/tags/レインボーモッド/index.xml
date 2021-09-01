@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>マイクラ日記</title>
-    <link>https://yu0035.github.io/</link>
-    <description>Recent content on マイクラ日記</description>
+    <title>レインボーモッド on マイクラ日記</title>
+    <link>https://yu0035.github.io/tags/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%A2%E3%83%83%E3%83%89/</link>
+    <description>Recent content in レインボーモッド on マイクラ日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 01 Sep 2021 18:39:34 +0900</lastBuildDate><atom:link href="https://yu0035.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 18:39:34 +0900</lastBuildDate><atom:link href="https://yu0035.github.io/tags/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%A2%E3%83%83%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[マイクラ Mod]</title>
       <link>https://yu0035.github.io/post/mod2/</link>
@@ -39,20 +39,6 @@
 TNT Modders
 のページを見てください。ていねいに説明してくれています。
 今回は以上です。</description>
-    </item>
-    
-    <item>
-      <title>ラキューでマイクラの剣を作りました。</title>
-      <link>https://yu0035.github.io/post/laq1/</link>
-      <pubDate>Mon, 30 Aug 2021 22:06:09 +0900</pubDate>
-      
-      <guid>https://yu0035.github.io/post/laq1/</guid>
-      <description>マイクラの剣作成 みなさん、こんにちは！
-もう夏休みの終わりも近いですね。
-今日は宿題も終わって時間があったので、ラキュー（LaQ）でマイクラの剣を作ってみました。
-   ちょっとわたしには大きいですが、かなりかっこいいです。
-このマイクラの剣の作り方は以下を見ました。
- 今回は以上です。</description>
     </item>
     
   </channel>

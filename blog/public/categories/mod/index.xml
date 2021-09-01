@@ -6,18 +6,39 @@
     <description>Recent content in mod on マイクラ日記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 31 Aug 2021 17:22:22 +0900</lastBuildDate><atom:link href="https://yu0035.github.io/categories/mod/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 18:39:34 +0900</lastBuildDate><atom:link href="https://yu0035.github.io/categories/mod/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>マイクラでMod作成中です。</title>
+      <title>[マイクラ Mod]</title>
+      <link>https://yu0035.github.io/post/mod2/</link>
+      <pubDate>Wed, 01 Sep 2021 18:39:34 +0900</pubDate>
+      
+      <guid>https://yu0035.github.io/post/mod2/</guid>
+      <description>Mod作成中 みなさん、こんにちは！
+今日もMod作成をしました。
+作成中のModの名前はレインボーモッドというものです。
+今日はレシピを作りました。
+前回作ったブロックからインゴットにへんかんできるようにしました。
+   そして、その反対で、インゴット9個ならべると、ブロックに戻せるレシピを作りました。
+   インゴットの絵も自分でかきました。
+じつは、絵を書くのがいちばんたのしかったです。
+今回は以上です。</description>
+    </item>
+    
+    <item>
+      <title>[マイクラ Mod]Mod作成中です。</title>
       <link>https://yu0035.github.io/post/mod1/</link>
       <pubDate>Tue, 31 Aug 2021 17:22:22 +0900</pubDate>
       
       <guid>https://yu0035.github.io/post/mod1/</guid>
-      <description>Mod作成中 現在、マイクラでのModを作成中です。
-そのModはなんと、レインボーブロックというものです。
-このブロック自体は今の所特に効果はありません。
-このブロックから他のアイテムも作れるようにしたいです。
-  </description>
+      <description>Mod作成中 みなさん、こんにちは！
+現在、わたしはマイクラでModを作成中です。
+そのModの名前はなんと、レインボーモッドというものです。
+このブロック自体は今のところ、特に効果はありません。鉄ブロックとかと一緒です。
+それで、ブロックから他のアイテムも作れるようにしたいです。
+   どうやってModを作れば良いんだろうという方は以下の
+TNT Modders
+のページを見てください。ていねいに説明してくれています。
+今回は以上です。</description>
     </item>
     
   </channel>
