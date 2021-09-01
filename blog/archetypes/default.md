@@ -3,9 +3,9 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 categories:
-- xx
+- mod
 tags:
-- yyy
+- レインボーモッド
 keywords:
 - マイクラ
 #thumbnailImage: //example.com/image.jpg

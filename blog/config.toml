@@ -6,3 +6,8 @@ theme = "m10c"
 [params]
     avatar = "avatar2.jpg"
     description = "マイクラのModを作成したり、ラキューやレゴでマイクラアイテムを作ったりしています！"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
